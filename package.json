@@ -1,6 +1,6 @@
 {
   "name": "telenor-auth-library",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Telenor Auth Library for Node.js",
   "main": "lib/index.js",
   "directories": {
